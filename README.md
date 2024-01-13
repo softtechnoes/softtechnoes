@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @softtechnoes
-- 👀 I’m interested in Fullstack development.
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me softtechnoes@gmail.com
 
 <!---
